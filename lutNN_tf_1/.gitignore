@@ -1,0 +1,16 @@
+/results
+/training
+/fig_png
+/__pycache__/
+/fig_png_1/
+/fig_png_2/
+/fig_png_3/
+/fig_png_4/
+/fig_png_5/
+/fig_png_6/
+/fig_png_7/
+/logs/
+/out.txt
+/*.png
+/mnist_plots/
+/mymodel_*/

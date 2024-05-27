@@ -1,0 +1,6 @@
+/lutNN2.exe
+/src/*.o
+/test/*.o
+/bin/
+/lutNN_*.txt
+/*.root
